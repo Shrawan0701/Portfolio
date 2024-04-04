@@ -25,6 +25,7 @@
 
 .menu {
   display: flex;
+  cursor: pointer;
 }
 
 .menuItems {

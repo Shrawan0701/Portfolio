@@ -28,6 +28,7 @@
 
 .aboutImage {
   width: 50%;
+  cursor: pointer;
 }
 
 .aboutItems {

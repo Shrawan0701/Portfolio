@@ -27,7 +27,7 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>React Native Developer</h3>
+              <h3>React Native App Developer</h3>
               <p>
                 I have experience in developing native apps for Android and IOS
               </p>

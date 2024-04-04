@@ -19,7 +19,7 @@ export const Navbar = () => {
               ? getImageUrl("nav/closeIcon.png")
               : getImageUrl("nav/menuIcon.png")
           }
-          alt="menu-button"
+          alt="menu-btn"
           onClick={() => setMenuOpen(!menuOpen)}
         />
         <ul
